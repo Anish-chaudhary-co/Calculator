@@ -11,7 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #1a1a40, #4e54c8);
+  background: linear-gradient(135deg, #0808c7, #000000);
 }
 
 .wrapper {
@@ -39,7 +39,7 @@ body {
   text-align: right;
   word-wrap: break-word;
   margin-bottom: 20px;
-  box-shadow: inset 0 0 10px rgba(0, 255, 204, 0.3);
+  box-shadow: inset 0 0 10px rgba(9, 151, 123, 0.3);
 }
 
 .display .firstval {
